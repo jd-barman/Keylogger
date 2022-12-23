@@ -21,6 +21,12 @@ Keylogger should be able to:
 
 ### Screenshot
 
+##### Keylogger
+![Screenshot (84)](https://user-images.githubusercontent.com/118118656/209273664-00b56cda-86ea-49e5-a84a-77f5225e66f2.png)
+
+##### Keystrokes saved in a separate file
+![Screenshot (86)](https://user-images.githubusercontent.com/118118656/209273673-bedb3a11-eeb7-47c1-9698-b2d895c23e53.png)
+
 
 
 ### Built with
